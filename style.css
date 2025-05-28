@@ -1,1 +1,66 @@
 
+### Código CSS (styles.css)
+
+```css
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff;
+}
+.timeline {
+    position: relative;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    border-left: 4px solid #007bff;
+}
+.timeline::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+.event {
+    padding: 20px;
+    position: relative;
+    background: white;
+    margin: 10px 0;
+    border-radius: 6px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+.event.left {
+    float: left;
+    width: 45%;
+    margin-right: 10%;
+    text-align: left;
+}
+.event.right {
+    float: right;
+    width: 45%;
+    margin-left: 10%;
+    text-align: right;
+}
+.date {
+    font-weight: bold;
+    color: #007bff;
+}
+.description {
+    margin-top: 10px;
+}
+@media (max-width: 768px) {
+    .event {
+        width: 90%;
+        margin: 5% auto;
+        text-align: center;
+    }
+    .event.left, .event.right {
+        float: none;
+    }
+}
+
