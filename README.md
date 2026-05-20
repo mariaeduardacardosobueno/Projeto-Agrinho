@@ -1,176 +1,70 @@
-# Projeto-Agrinho2026
+# 🌾 Agrinho 2026: Cultivando Conhecimento, Semeando o Futuro
 
-<h1>Agro forte, futuro sustentavel</h1>
+![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
+![Ano](https://img.shields.io/badge/Ano-2026-blue)
 
-<div class="timeline">
-    <div class="event left">
-        <div class="date">1800</div>
-        <h3>Feiras de Agricultura</h3>
-        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
-    </div>
-    <div class="event right">
-        <div class="date">1900</div>
-        <h3>Festa da Colheita</h3>
-        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
-    </div><h1>Festejando a Conexão Campo e Cidade</h1>
+## 📌 Sobre o Projeto
+O **Agrinho** é o maior programa de responsabilidade social do Sistema FAEP/SENAR-PR, desenvolvido em parceria com o governo do estado. Em 2026, o projeto continua sua missão de conectar a educação escolar à realidade do campo, promovendo a sustentabilidade, a inovação tecnológica no agronegócio e a cidadania desde a infância.
 
-<div class="timeline">
-    <div class="event left">
-        <div class="date">1800</div>
-        <h3>Feiras de Agricultura</h3>
-        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
-    </div>
-    <div class="event right">
-        <div class="date">1900</div>
-        <h3>Festa da Colheita</h3>
-        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
-    </div>
-    <div class="event left">
-        <div class="date">1950</div>
-        <h3>Feiras Gastronômicas</h3>
-        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
-    </div> <meta charset="UTF-8"><h1>Festejando a Conexão Campo e Cidade</h1> <meta charset="UTF-8"><h1>Festejando a Conexão Campo e Cidade</h1>
-    <div class="event right">
-        <div class="date">2000</div>
-        <h3>Festa das Cidades e Agropecuária</h3>
-        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
-    </div>
-    <div class="event left">
-        <div class="date">2020</div><h1>Festejando a Conexão Campo e Cidade</h1>
+Este repositório foi criado para documentar, gerenciar e compartilhar as soluções digitais, pesquisas e materiais pedagógicos desenvolvidos para a edição deste ano.
 
-<div class="timeline">
-    <div class="event left">
-        <div class="date">1800</div>
-        <h3>Feiras de Agricultura</h3>
-        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
-    </div>
-    <div class="event right">
-        <div class="date">1900</div>
-        <h3>Festa da Colheita</h3>
-        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
-    </div>
-    <div class="event left">
-        <div class="date">1950</div>
-        <h3>Feiras Gastronômicas</h3>
-        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
-    </div>
-    <div class="event right">
-        <div class="date">2000</div>
-        <h3>Festa das Cidades e Agropecuária</h3>
-        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
-    </div>
-    <div class="event left">
-        <div class="date">2020</div>
-    <div class="event left">
-        <div class="date">1950</div>
-        <h3>Feiras Gastronômicas</h3>
-        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
-    </div>
-    <div class="event right">
-        <div class="date">2000</div>
-        <h3>Festa das Cidades e Agropecuária</h3>
-    <title>Agro forte,futurosus</title>
-        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
-    </div>
-    <div class="event left">
-        <div class="date">2020</div>
-        <h3>Sustentabilidade e Festas Locais</h3>
-        <p>Festas que promovem a sustentabilidade, conectando agricultores e consumidores urbanos.</p>
-    </div>
-</div>
+---
 
-</body>
-</html>
+## 🎯 Objetivos
 
-<!DOCTYPE html>
-<html lang="pt-br">
-</head>
+* **Aprender:** Levar a educação do campo e a conscientização social para as salas de aula.
+* **Cuidar:** Estimular práticas sustentáveis e o respeito ao meio ambiente.
+* **Inovar:** Introduzir conceitos de tecnologia agrícola e agricultura digital para os alunos.
+* **Colher:** Engajar a comunidade escolar na construção de um futuro melhor e mais integrado.
 
-<div class="timeline">
-    <div class="event left">
-        <div class="date">1800</div>
-        <h3>Feiras de Agricultura</h3>
-        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
-    </div>
-    <div class="event right">
-        <div class="date">1900</div>
-        <h3>Festa da Colheita</h3>
-        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
-    </div>
-    <div class="event left">
-        <div class="date">1950</div>
-        <h3>Feiras Gastronômicas</h3>
-        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
-    </div>
-    <div class="event right">
-        <div class="date">2000</div>
-        <h3>Festa das Cidades e Agropecuária</h3>
-        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
-    </div>
-    <div class="event left">
-        <div class="date">2020</div>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-    <title>Agro forte,futurosus</title>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            margin: 0;
-            padding: 20px;
-        }
-        .timeline {
-            position: relative;
-            max-width: 800px;
-            margin: auto;
-        }
-        .timeline::after {
-            content: '';
-            position: absolute;
-            width: 6px;
-            background-color: #007bff;
-            top: 0;
-            bottom: 0;
-            left: 50%;
-            margin-left: -3px;
-        }
-        .event {
-            padding: 20px;
-            position: relative;
-            background: white;
-            border-radius: 6px;
-            margin: 10px 0;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .event.left {
-            left: 0;
-        }    <title>Agro forte,futurosus</title>
+---
 
-        .event.right {
-            left: 50%;
-        }
-        .event.left::after {
-            content: '';
-            position: absolute;
-            top: 15px;
-            right: -8px;
-            border-width: 8px;
-            border-style: solid;
-            border-color: transparent transparent transparent white;
-        }
-        .event.right::after {
-            content: '';
-            position: absolute;
-            top: 15px;
-            left: -8px;
-            border-width: 8px;
-            border-style: solid;
-            border-color: transparent white transparent transparent;
-        }
-        .date {
-            font-weight: bold;
-            color: #007bff;
-        }
-    </style>
-</head>
-<body>
+## 📅 Cronograma Geral (2026)
 
+| Etapa | Período | Descrição |
+| :--- | :--- | :--- |
+| **Inscrições** | Março | Abertura do prazo para escolas e professores voluntários. |
+| **Atividades** | Abril - Junho | Desenvolvimento das aulas, projetos práticos e redações. |
+| **Avaliação** | Setembro | Banca examinadora avalia os trabalhos enviados. |
+| **Premiação** | Novembro | Evento oficial de encerramento e entrega de prêmios. |
+
+---
+
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+*(Caso o seu projeto envolva o desenvolvimento de um sistema, aplicativo ou site para o Agrinho, adicione as tecnologias aqui)*
+
+* **Front-end:** HTML5, CSS3, JavaScript / React
+* **Documentação:** Markdown
+* **Design/Prototipagem:** Figma e Canva
+
+---
+
+## 📋 Requisitos para Participação
+
+Para que os projetos escolares sejam validados, eles devem cumprir os seguintes critérios:
+1.  **Participação Escolar:** Estar devidamente matriculado em uma escola parceira do programa.
+2.  **Projetos Criativos:** Desenvolver soluções (redações, desenhos ou projetos de robótica/TI) focados no tema de 2026.
+3.  **Professores Engajados:** Ter a orientação de pelo menos um professor coordenador.
+
+---
+
+## 🚀 Como Contribuir ou Participar
+
+1.  **Acesse o Site:** Visite o portal oficial do Agrinho para entender o regulamento deste ano.
+2.  **Inscreva sua Escola:** Garanta que sua instituição está cadastrada.
+3.  **Desenvolva os Projetos:** Utilize este repositório como base para organizar as ideias do seu grupo.
+4.  **Envie os Trabalhos:** Respeite os prazos de entrega da plataforma oficial.
+
+---
+
+## 📞 Contato e Redes Sociais
+
+> 💡 **Nota:** Para dúvidas sobre o regulamento oficial de 2026, entre em contato diretamente com os canais do Sistema FAEP.
+
+* **📧 E-mail:** contato@agrinho2026.com.br
+* **📸 Instagram:** [@agrinho2026](https://instagram.com)
+* **🌐 Hashtag Oficial:** `#Agrinho2026`
+
+---
+Developed with 🌱 for a sustainable future.
