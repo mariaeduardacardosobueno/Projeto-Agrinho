@@ -67,7 +67,7 @@
 </head>
 <body>
 
-<h1>Festejando a Conexão Campo e Cidade</h1>
+<h1>Agro forte, futuro sustentavel</h1>
 
 <div class="timeline">
     <div class="event left">
@@ -88,6 +88,7 @@
     <div class="event right">
         <div class="date">2000</div>
         <h3>Festa das Cidades e Agropecuária</h3>
+    <title>Agro forte,futurosus</title>
         <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
     </div>
     <div class="event left">
@@ -107,6 +108,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Festejando a Conexão Campo e Cidade</title>
     <style>
+    <title>Agro forte,futurosus</title>
         body {
             font-family: Arial, sans-serif;
             background-color: #f8f9fa;
@@ -138,7 +140,8 @@
         }
         .event.left {
             left: 0;
-        }
+        }    <title>Agro forte,futurosus</title>
+
         .event.right {
             left: 50%;
         }
