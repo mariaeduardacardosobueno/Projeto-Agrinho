@@ -1,4 +1,4 @@
-# 🌾 Agrinho 2026: Cultivando Conhecimento, Semeando o Futuro
+# 🌾 Agrinho 2026: Agro forte, futuro sustentavel
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
 ![Ano](https://img.shields.io/badge/Ano-2026-blue)
