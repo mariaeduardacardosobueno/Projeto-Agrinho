@@ -12,7 +12,55 @@
         <div class="date">1900</div>
         <h3>Festa da Colheita</h3>
         <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
+    </div><h1>Festejando a Conexão Campo e Cidade</h1>
+
+<div class="timeline">
+    <div class="event left">
+        <div class="date">1800</div>
+        <h3>Feiras de Agricultura</h3>
+        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
     </div>
+    <div class="event right">
+        <div class="date">1900</div>
+        <h3>Festa da Colheita</h3>
+        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
+    </div>
+    <div class="event left">
+        <div class="date">1950</div>
+        <h3>Feiras Gastronômicas</h3>
+        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
+    </div>
+    <div class="event right">
+        <div class="date">2000</div>
+        <h3>Festa das Cidades e Agropecuária</h3>
+        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
+    </div>
+    <div class="event left">
+        <div class="date">2020</div><h1>Festejando a Conexão Campo e Cidade</h1>
+
+<div class="timeline">
+    <div class="event left">
+        <div class="date">1800</div>
+        <h3>Feiras de Agricultura</h3>
+        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
+    </div>
+    <div class="event right">
+        <div class="date">1900</div>
+        <h3>Festa da Colheita</h3>
+        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
+    </div>
+    <div class="event left">
+        <div class="date">1950</div>
+        <h3>Feiras Gastronômicas</h3>
+        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
+    </div>
+    <div class="event right">
+        <div class="date">2000</div>
+        <h3>Festa das Cidades e Agropecuária</h3>
+        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
+    </div>
+    <div class="event left">
+        <div class="date">2020</div>
     <div class="event left">
         <div class="date">1950</div>
         <h3>Feiras Gastronômicas</h3>
@@ -37,7 +85,31 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"><h1>Festejando a Conexão Campo e Cidade</h1>
+
+<div class="timeline">
+    <div class="event left">
+        <div class="date">1800</div>
+        <h3>Feiras de Agricultura</h3>
+        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
+    </div>
+    <div class="event right">
+        <div class="date">1900</div>
+        <h3>Festa da Colheita</h3>
+        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
+    </div>
+    <div class="event left">
+        <div class="date">1950</div>
+        <h3>Feiras Gastronômicas</h3>
+        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
+    </div>
+    <div class="event right">
+        <div class="date">2000</div>
+        <h3>Festa das Cidades e Agropecuária</h3>
+        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
+    </div>
+    <div class="event left">
+        <div class="date">2020</div>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Festejando a Conexão Campo e Cidade</title>
     <style>
@@ -103,38 +175,4 @@
     </style>
 </head>
 <body>
-
-<h1>Festejando a Conexão Campo e Cidade</h1>
-
-<div class="timeline">
-    <div class="event left">
-        <div class="date">1800</div>
-        <h3>Feiras de Agricultura</h3>
-        <p>Início das feiras de agricultura que conectavam produtos do campo à população das cidades.</p>
-    </div>
-    <div class="event right">
-        <div class="date">1900</div>
-        <h3>Festa da Colheita</h3>
-        <p>Tradicional festa no campo que atrai cidadãos, promovendo a cultura agrícola.</p>
-    </div>
-    <div class="event left">
-        <div class="date">1950</div>
-        <h3>Feiras Gastronômicas</h3>
-        <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
-    </div>
-    <div class="event right">
-        <div class="date">2000</div>
-        <h3>Festa das Cidades e Agropecuária</h3>
-        <p>Eventos que celebram a união entre agricultura e urbanidade, com shows e exposições.</p>
-    </div>
-    <div class="event left">
-        <div class="date">2020</div>
-        <h3>Sustentabilidade e Festas Locais</h3>
-        <p>Festas que promovem a sustentabilidade, conectando agricultores e consumidores urbanos.</p>
-    </div>
-</div>
-
-</body>
-</html>
-
 
