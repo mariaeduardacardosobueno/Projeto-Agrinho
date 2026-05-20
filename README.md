@@ -29,7 +29,7 @@
         <div class="date">1950</div>
         <h3>Feiras Gastronômicas</h3>
         <p>Início das feiras gastronômicas, unindo sabores do campo e da cidade.</p>
-    </div>
+    </div> <meta charset="UTF-8"><h1>Festejando a Conexão Campo e Cidade</h1> <meta charset="UTF-8"><h1>Festejando a Conexão Campo e Cidade</h1>
     <div class="event right">
         <div class="date">2000</div>
         <h3>Festa das Cidades e Agropecuária</h3>
@@ -84,8 +84,7 @@
 
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8"><h1>Festejando a Conexão Campo e Cidade</h1>
+</head>
 
 <div class="timeline">
     <div class="event left">
@@ -111,7 +110,6 @@
     <div class="event left">
         <div class="date">2020</div>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Festejando a Conexão Campo e Cidade</title>
     <style>
     <title>Agro forte,futurosus</title>
         body {
